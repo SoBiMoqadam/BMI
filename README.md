@@ -1,5 +1,3 @@
-# BMI Calculator
-
 <div align="center">
 <h1 style="color:#00ffff; font-family:monospace;">BMI Calculator</h1>
 <p style="font-family:monospace; font-size:16px; color:#9be7ff;">
